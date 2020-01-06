@@ -2,9 +2,10 @@
   "name": "yumeko",
   "version": "0.1.0",
   "description": "A simple discord bot",
-  "main": "MusicBot.js",
+  "main": "Music.js",
   "scripts": {
-    "test": ""
+    "start": "node Music.js",
+    "test": "node Music.js"
   },
   "keywords": [
     "discord",
